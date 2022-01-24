@@ -1,2 +1,3 @@
 # BuildedDodge
-Builded Dodge project with unity\nYou can see that at > https://github.com/GirimPark/Dodge
+Builded Dodge project with unity
+You can see that at > https://github.com/GirimPark/Dodge
